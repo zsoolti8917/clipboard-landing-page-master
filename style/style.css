@@ -159,13 +159,15 @@ h6 {
     justify-content: center;
     align-items: center;
 }
-
+html{
+   
+}
 body {
     font-family: var(--ff-primary);
     font-weight: var(--fw-regular);
     font-size: var(--fs-400);
     color: var(--clr-neutral-700);
-    background-color: var(--clr-neutral-100);
+    background-color: white;
     min-height: 100vh;
 }
 
