@@ -30,17 +30,17 @@ Users should be able to:
 ### Screenshot
 
 Finished project on a 1440px screen
-![Finished project on 1440px](solution/PC%20solution.PNG)
+![Finished project on 1440px](solution/PC%20solution.png)
 
 Finished project on a 375px screen
 <br />
-![Finished project on 375px](solution/Phone%20solution.PNG)
+![Finished project on 375px](solution/Phone%20solution.png)
 
 ### Links
 
 - Solution URL: [solution on my frontend mentor profile](https://www.frontendmentor.io/profile/zsoltvarju)
-- Live Site URL: [live site on netlify](https://wonderful-ganache-591903.netlify.app/)
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/28ecf1ca-8b27-4813-bf82-62384269c003/deploy-status)](https://app.netlify.com/sites/wonderful-ganache-591903/deploys)
+- Live Site URL: [live site on netlify](https://majestic-bienenstitch-2ed3be.netlify.app/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/ab7c36f8-03b4-47b8-bee3-77e35032c49b/deploy-status)](https://app.netlify.com/sites/majestic-bienenstitch-2ed3be/deploys)
 
 ## My process
 
@@ -52,21 +52,16 @@ Finished project on a 375px screen
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
-This was a really fun project! It was pretty easy and a good one to practice using the grid. However, I have one major issue: on the phone, there is no space under the last container. If I add margin, it does not help, and I don't know why it could be like this. Any help would be appreciated.
-
-Also, I became a Pro member, so this was my first-ever project where I used Figma. I have to say, it is neat! It is so much easier that I don't need to think about whether 2 headers are the same size or not. I am very happy with it. In the end, I tried to play a little with animations and learned that it is not as easy as I thought. I added the sliding animation to the card, and this way, I could not add hover animations to it, which is pretty disappointing. I tried for at least an hour to make it work, but I could not, and I want to move on with the projects. Maybe later, I will come back to it.
-
-From the responsive side, it should be totally responsive. I followed the mobile-first approach, which I love.
-
-Also, in this project, I tried to add utility classes, but I have no idea if I did it right or wrong or when to apply the utility class to a header or element, etc. Any feedback regarding this would be appreciated.
+Generally i learned utility classes and how to use them but i am not sure if i used them correctly applying to classes? i would love feedback on that.
+I learned how to change the color of an svg if it is in a img tag, i played a lot around it and in the end opted to use filters on it. I know that it is not the best approach but i dont like it when the svg is used inline in the HTML.
+Learned a cool hover effect on buttons, I love it and will definitely use it more.
+I tried to make it as responsive as i could and i think i did a good job overall, hovewer i think i should have used clamps for the font sizes? right now i have 2 fixed sets which i change with media query.
 
 ### Continued development
 
-Maybe later, I will come back to it.
+I don't plan to come back to this project in the near future. Maybe when i learn react will redo it but it is the song of the future.
 
 ### Useful resources
 
